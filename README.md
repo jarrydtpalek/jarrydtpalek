@@ -1,8 +1,10 @@
 👋 Hi, I'm Jarryd Palek
 AI-Native Product Builder | 7+ Years Shipping Products End-to-End | 50+ Production PRs as a PM
+
 🚀 What I Do
 I build products. Not just strategy docs and roadmaps—I write code, ship features, and iterate in production. As a Senior Product Manager who codes, I've spent 7+ years bridging the gap between product vision and technical execution, leveraging AI tools like Cursor, Bolt, and Claude Code to move from idea to shipped feature in hours, not weeks.
 Current Focus: Building a full-stack home management app using 100% AI-powered development—no traditional coding, just prompt engineering and AI-assisted implementation. From React Native mobile apps to backend APIs, proving that AI can accelerate the entire product development lifecycle.
+
 💻 How I Build
 
 50+ Production PRs: Contributed production-ready code across multiple products while leading product strategy
