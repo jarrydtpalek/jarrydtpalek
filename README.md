@@ -8,7 +8,7 @@ Current Focus: Building a full-stack home management app using 100% AI-powered d
 
 💻 How I Build
 
-50+ Production PRs: Contributed production-ready code across multiple products while leading product strategy
+150+ Production PRs: Contributed production-ready code across multiple products while leading product strategy
 AI-First Development: Ship features 10x faster using Cursor, Claude Code, and Bolt—from data models to UI components
 Full-Stack Capabilities: React Native (iOS), Node.js backends, SQL databases, API integrations, and ML model deployment
 Product + Engineering: I speak both languages fluently—translate business requirements into technical specs and ship them myself when needed
