@@ -1,5 +1,5 @@
 👋 Hi, I'm Jarryd Palek
-AI-Native Product Builder | 7+ Years Shipping Products End-to-End | 400+ Production PRs as a PM
+AI-Native Product Builder | 7+ Years Shipping Products End-to-End | 1000+ Production PRs as a PM
 
 🚀 What I Do
 
